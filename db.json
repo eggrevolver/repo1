@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "category": "IT startups",
+    "title": "Startup co",
+    "description": "We build something new",
+    "location": "San Francisco, CA",
+    "dateEstablished": "January 28, 2022",
+    "domain": "Finance",
+    "CEO": "Mr. Smith"
+  },
+  {
+    "id": 2,
+    "category": "mature",
+    "title": "Community Gardening",
+    "description": "Gardening edible plants.",
+    "location": "Fort Lauderdale, FL",
+    "dateEstablished": "March 14, 2022",
+    "domain": "Gardening",
+    "CEO": "Mr. Smith"
+  },
+  {
+    "id": 3,
+    "category": "IT startups",
+    "title": "Startup Super Pro",
+    "description": "We build something new too",
+    "location": "Atlanta, GA",
+    "dateEstablished": "July 22, 2022",
+    "domain": "Programming",
+    "CEO": "Mr. and Mrs. Smith"
+  }
+]
