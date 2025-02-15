@@ -2,7 +2,7 @@
   "cards": [
     {
       "id": 1,
-      "category": "IT startups",
+      "category": "Startups",
       "title": "Startup co",
       "description": "We build something new",
       "location": "San Francisco, CA",
@@ -12,7 +12,7 @@
     },
     {
       "id": 2,
-      "category": "mature",
+      "category": "Mature",
       "title": "Community Gardening",
       "description": "Gardening edible plants.",
       "location": "Fort Lauderdale, FL",
@@ -22,13 +22,53 @@
     },
     {
       "id": 3,
-      "category": "IT startups",
+      "category": "Startups",
       "title": "Startup Super Pro",
-      "description": "We build something new too",
+      "description": "We build software",
       "location": "Atlanta, GA",
       "dateEstablished": "July 22, 2022",
-      "domain": "Programming",
+      "domain": "IT",
       "CEO": "Mr. and Mrs. Smith"
+    },
+    {
+      "id": 4,
+      "category": "Mature",
+      "title": "The place",
+      "description": "A small restaurant at the sea",
+      "location": "Miami, FL",
+      "dateEstablished": "July 1, 1998",
+      "domain": "Restaurants",
+      "CEO": "Mr. and Mrs. Smith"
+    },
+    {
+      "id": 5,
+      "category": "Mature",
+      "title": "The crab",
+      "description": "A huge restaurant",
+      "location": "Miami, FL",
+      "dateEstablished": "July 1, 1978",
+      "domain": "Restaurants",
+      "CEO": "Gordon Ramsey"
+    },
+    {
+      "id": 6,
+      "category": "Network",
+      "title": "Two stick",
+      "description": "A network of small family japanese restaurants",
+      "location": "50 states",
+      "dateEstablished": "August 1, 1989",
+      "domain": "Fast food",
+      "CEO": "Mr. Chi"
+    },
+    {
+      "id": 7,
+      "category": "Network",
+      "title": "Night without a fight",
+      "description": "A network of hotels where you can stay if you had a wife scene",
+      "location": "50 states",
+      "dateEstablished": "August 1, 1989",
+      "domain": "Hotels",
+      "CEO": "Mr. Smith"
     }
   ]
 }
